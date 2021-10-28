@@ -8,7 +8,7 @@
   
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/animation-loadstring/main/Zan3", true))() -- Zan3
   
-	loadstring(game:HttpGet("", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/animation-loadstring/main/BeamedByPov", true))() -- BeamedByPov 
   
 	loadstring(game:HttpGet("", true))()
   
