@@ -10,7 +10,7 @@
   
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/animation-loadstring/main/BeamedByPov", true))() -- BeamedByPov 
   
-	loadstring(game:HttpGet("", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/animation-loadstring/main/Kimbladi", true))() -- Kimbladi
   
 	loadstring(game:HttpGet("", true))()
   
