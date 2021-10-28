@@ -13,7 +13,7 @@
   
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/animation-loadstring/main/Kimbladi", true))() -- Kimbladi
   
-	loadstring(game:HttpGet("", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/animation-loadstring/main/ken", true))() -- Ken
   
 	loadstring(game:HttpGet("", true))()
   
