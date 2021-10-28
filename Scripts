@@ -1,4 +1,5 @@
--- Hello 
+-- Don't  Copy Every Loadstring Just Pick One --
+
 
 	loadstring(game:HttpGet("", true))() -- So I Don't Have To Type Shit
   
