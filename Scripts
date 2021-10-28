@@ -17,7 +17,7 @@
   
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/animation-loadstring/main/thejordanggf", true))() -- the jordanggf
   
-	loadstring(game:HttpGet("", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/PewPewBoy/animation-loadstring/main/YER4", true))() -- YER4
   
 	loadstring(game:HttpGet("", true))()
   
